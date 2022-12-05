@@ -8,4 +8,4 @@ app.get('/',(req,res) =>{
     })
 })
 
-app.liste(3000)
+app.listen(3000)
